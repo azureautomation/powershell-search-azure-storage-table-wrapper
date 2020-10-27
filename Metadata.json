@@ -1,0 +1,20 @@
+{
+    "Author": "brentrossen",
+    "ContentSize": 7861,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-search-azure-storage-table-wrapper/master/AzureStorageTableSearch.ps1",
+    "DownloadCount": 1014,
+    "Id": "PowerShell-Search-Azure-134780ab",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 456,
+    "RaterCount": 1,
+    "Rating": 3.0,
+    "ReleaseDate": "2015-4-29T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This PowerShell function simplifies using the Azure Storage Table Search facilities described in the\u00a0Azure Storage PowerShell Guide. It also enables PowerShell pipelining so that functions further down the pipeline can begin processing results while additional entities are down",
+    "Title": "PowerShell Search Azure Storage Table Wrapper",
+    "UpdatedDate": "2015-4-29T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-search-azure-storage-table-wrapper",
+    "UserTags": "Microsoft Azure, Powershell, Windows Azure PowerShell"
+}
